@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFi3o2lGVA/NZ20xRFFXX8DRFgjPN5Rhg/watch?utm_content=DAFi3o2lGVA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://devanshXmani.io)
+[![Alt Text](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://devanshXmani.io)
 
 <h1 align="center">Hi 👋, I'm Devansh Mani</h1>
 <h3 align="center">A passionate Frontend Web Developer and a UI/UX designer.</h3>
