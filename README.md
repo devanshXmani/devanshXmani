@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshxmani&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="devanshxmani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshxmani&show_icons=true&theme=gruvbox&locale=en" alt="devanshxmani" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshxmani&theme=dark" alt="devanshxmani" /></p>
