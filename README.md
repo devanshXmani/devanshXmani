@@ -4,7 +4,7 @@
 <img align = "center" src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h1 align="center">Hello, I'm Devansh Mani</h1>
 <h3 align="center">A passionate Frontend Web Developer and a UI/UX designer.</h3>
-<img align = "center" src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">>
+<img align = "center" src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <!-- https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vscgkr1r9w5h7c5uphnudcfrgcfi8sl9nnezoo7k&ep=v1_gifs_search&rid=giphy.gif&ct=g -->
