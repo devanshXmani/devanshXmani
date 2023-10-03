@@ -1,9 +1,13 @@
-[![Alt Text](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://devanshXmani.io)
+[![Greetings](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://devanshXmani.io)
 
-<h1 align="center">Hi 👋, I'm Devansh Mani</h1>
+<!-- https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif -->
+<img align = "center" src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<h1 align="center">Hello, I'm Devansh Mani</h1>
 <h3 align="center">A passionate Frontend Web Developer and a UI/UX designer.</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vscgkr1r9w5h7c5uphnudcfrgcfi8sl9nnezoo7k&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "center" src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">>
 
+<img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<!-- https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vscgkr1r9w5h7c5uphnudcfrgcfi8sl9nnezoo7k&ep=v1_gifs_search&rid=giphy.gif&ct=g -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshxmani&label=Profile%20views&color=0e75b6&style=flat" alt="devanshxmani" /> </p>
 
 
